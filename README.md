@@ -157,6 +157,8 @@ tips.head()
 ```
 tips.time.unique()
 ```
+![322338497-f77bc757-8a31-4a5d-be15-5a447e6549c6](https://github.com/user-attachments/assets/d924b474-00e6-4901-91a9-592f57d75158)
+
 ```
 contingency_table=pd.crosstab(tips['sex'],tips['time'])
 print(contingency_table)
